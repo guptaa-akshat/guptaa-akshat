@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Engineer+with+a+Vision+for+Impact.;RAG+%7C+LLMs+%7C+Deep+Learning+%7C+Automation;Building+intelligent+solutions+for+real-world+problems."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=AI+Engineer+with+a+Vision+for+Impact.;RAG+%7C+LLMs+%7C+Deep+Learning+%7C+Automation;Building+intelligent+solutions;for+real-world+problems."/>
 </p>
 
 ---
